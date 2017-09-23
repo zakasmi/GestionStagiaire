@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\bin\Debug\Stagiaire.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\bin\Debug\Stagiaire.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.Matiere.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.Notes.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.Stagiaire.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Stagiaire\Stagiaire\obj\x86\Debug\Stagiaire.pdb
